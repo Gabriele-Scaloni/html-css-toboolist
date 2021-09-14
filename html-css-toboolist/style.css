@@ -1,0 +1,56 @@
+*{ 
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.intestazione{
+    margin: 10px 20px;
+}
+h1{
+
+    display: inline;
+    vertical-align: 50%;
+}
+
+.main-conteiner{
+    padding: 5% 10%;
+    background-color: rgb(210, 240, 245);
+    width: 100%;
+    height: 100%;
+}
+
+.conteiner{
+    background-color: rgb(253, 253, 253);
+    border-radius: 3% ;
+}
+
+.tasti {
+    padding: 10px 20px;
+    border-radius:  5%;
+}
+
+#tasto1{
+    display: inline;
+    width: 100px;
+    background-color: rgb(134, 134, 218);
+    color: white;
+    
+}
+    
+#tasto2{
+    
+    display: inline;
+    width: 120px;
+    background-color: burlywood;
+    
+}
+
+.divisorio{
+    border: 2px solid rgb(210, 240, 245);
+
+}
+
+h2{
+    padding: 10px 20px;
+}
