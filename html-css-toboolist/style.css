@@ -54,3 +54,36 @@ h1{
 h2{
     padding: 10px 20px;
 }
+
+p{
+    padding: 10px 20px;
+}
+
+.parole-speciali{
+    font-size: 10px;
+    width: 20px;
+    padding: 5px;
+    border-radius: 30%;
+    color: white;
+}
+#editorial{
+    background-color: rgb(91, 91, 238);
+}
+
+#goals{background-color: blueviolet;
+}
+
+#recruting{
+    background-color: cornflowerblue;
+}
+
+#mobile{background-color: orange;
+}
+
+#website{
+    background-color: orchid;
+}
+
+#sales{
+    background-color: rgb(90, 236, 90);
+}
